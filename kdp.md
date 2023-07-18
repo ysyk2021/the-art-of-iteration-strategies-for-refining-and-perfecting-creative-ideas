@@ -12,7 +12,6 @@ But the book is not just about personal growth; it also focuses on organizationa
 
 In today's fast-paced and ever-changing world, being an iterative thinker is no longer optional - it's essential. "The Art of Iteration: Strategies for Refining and Perfecting Creative Ideas" is a must-read for anyone who wants to take their creativity to the next level and achieve long-term success.
 
-
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
 
 
