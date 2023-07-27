@@ -1,0 +1,1 @@
+for the book "the art of iteration strategies for refining and perfecting creative ideas", write a chapter: "using iteration for personal development".  Use Markdown format. Use English.

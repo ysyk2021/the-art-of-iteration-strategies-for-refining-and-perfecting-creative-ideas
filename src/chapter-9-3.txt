@@ -1,0 +1,1 @@
+for the book "the art of iteration strategies for refining and perfecting creative ideas", write a chapter: "building skills through iteration".  Use Markdown format. Use English.
