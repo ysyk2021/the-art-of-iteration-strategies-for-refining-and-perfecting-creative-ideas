@@ -1,5 +1,3 @@
-Chapter 1: Understanding Iteration
-==================================
 
 Iteration is an essential element of the creative process. In this chapter, we will explore what iteration is, the types of iteration, and the benefits of effective iteration.
 

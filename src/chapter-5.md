@@ -1,5 +1,3 @@
-Chapter 4: Prototyping and Testing
-==================================
 
 Prototyping and testing are essential steps in the creative process. In this chapter, we will explore how to effectively prototype and test creative ideas.
 

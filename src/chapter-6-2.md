@@ -1,5 +1,3 @@
-Developing Resilience in the Face of Setbacks
-======================================================
 
 In this chapter, we will explore the importance of developing resilience in the face of setbacks when iterating and refining creative ideas. The journey towards perfection is often marked by challenges, failures, and unexpected obstacles. Building resilience equips individuals and teams with the mindset and strategies to bounce back from setbacks and continue the pursuit of excellence. Let's delve into some effective techniques for developing resilience in the face of setbacks.
 

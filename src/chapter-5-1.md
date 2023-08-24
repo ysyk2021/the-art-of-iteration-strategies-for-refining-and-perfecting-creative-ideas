@@ -1,5 +1,3 @@
-Creating Prototypes to Test Ideas
-==========================================
 
 In this chapter, we will explore the key role of creating prototypes in the process of testing and refining creative ideas. Prototyping is an essential strategy that enables creators to bring their ideas to life in tangible and interactive forms. By creating prototypes, individuals and teams can gather valuable feedback, uncover insights, and make informed decisions to iterate and enhance their creative concepts. Let's delve into the significance of creating prototypes to test ideas and its impact on the iterative process.
 

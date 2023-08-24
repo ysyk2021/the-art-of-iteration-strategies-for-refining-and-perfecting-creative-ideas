@@ -1,5 +1,3 @@
-Chapter 2: Developing a Creative Idea
-=====================================
 
 Developing a creative idea is the first step in the iteration process. Generating a great idea requires creativity, insight, and a deep understanding of the problem or opportunity at hand. In this chapter, we will explore techniques for generating creative ideas, identifying your target audience, and creating a concept statement.
 

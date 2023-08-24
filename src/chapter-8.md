@@ -1,5 +1,3 @@
-Chapter 7: Applying Iteration to Personal Growth
-================================================
 
 Iteration is not just a strategy for refining and perfecting creative ideas -- it can also be applied to personal growth. By using the principles of iteration, we can continuously refine our goals and strategies for personal development. In this chapter, we will explore how to apply iteration to personal growth.
 

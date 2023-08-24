@@ -1,5 +1,3 @@
-Types of Iteration
-===========================
 
 In this chapter, we will explore different types of iteration that can be employed in the process of refining and perfecting creative ideas. Understanding these various types of iteration provides individuals and teams with a range of strategies to effectively iterate and enhance their creative endeavors. Each type of iteration brings unique advantages and considerations, allowing for flexibility and customization in the iterative process. Let's delve into the different types of iteration and their significance in the creative context.
 

@@ -1,5 +1,3 @@
-Final Thoughts and Recommendations for Readers
-==========================================================
 
 In this book, we have explored the art of iteration and strategies for refining and perfecting creative ideas. We have learned about techniques for generating ideas, incorporating feedback, prototyping and testing, and embracing imperfection along the way.
 
