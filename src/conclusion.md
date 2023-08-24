@@ -1,5 +1,4 @@
 
-
 The Ongoing Journey of the Art of Iteration
 -------------------------------------------
 
